@@ -6,7 +6,6 @@ import keras
 import tensorflow as tf
 
 
-
 frameWidth= 640     
 frameHeight = 480
 brightness = 180
